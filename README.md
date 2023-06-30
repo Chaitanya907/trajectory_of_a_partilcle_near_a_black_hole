@@ -1,0 +1,1 @@
+# trajectory_of_a_partilcle_near_a_black_hole
